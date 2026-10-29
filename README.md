@@ -13,7 +13,7 @@ PORT is missing from the example file
 
 ## Install
 
-Download a binary for Linux (x86-64), macOS (Apple silicon), or Windows (x86-64) from [Releases](https://github.com/Vansh-738/envscope/releases). Each archive includes the executable, README and license. Checksums are included alongside the archives.
+Download a binary for Linux (x86-64, glibc 2.35 or newer), macOS (Apple silicon), or Windows (x86-64) from [Releases](https://github.com/Vansh-738/envscope/releases). Each archive includes the executable, README and license. Checksums are included alongside the archives.
 
 To build from source, you need a stable Rust toolchain and a C compiler for the Python grammar.
 
